@@ -1,0 +1,77 @@
+#explore-content {
+    margin-left: 16px;
+    max-width: 560px;
+}
+
+.wd-explore-image {
+    float: right;
+    width: 100px;
+    height: 100px;
+    margin-right: 16px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#explore-search-header {
+    height: 50px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+#explore-hyperlink-header {
+    min-height: 50px;
+}
+
+#wd-search-input {
+    height: 30px;
+    width: 85%;
+    border-radius: 20px;
+    background-color: darkgray;
+    border-color: black;
+}
+
+#explore-gear {
+    float: right;
+    margin-right: 12px;
+    width: 30px;
+    height: 30px;
+}
+
+.wd-highlighted-hyperlink {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-right: 16px;
+    margin-left: 16px;
+    border-bottom-width: 4px;
+    border-bottom-color: rgb(29,161,242);
+    border-bottom-style: solid;
+}
+
+.wd-normal-hyperlink {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-right: 16px;
+    margin-left: 16px;
+}
+
+.wd-trending-post {
+    height: 90px;
+}
+
+.wd-author-post {
+    height: 120px;
+}
+
+.wd-topic-post {
+    height: 120px;
+}
+
+.wd-explore-post-content {
+    display: block;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.wd-highlighted-text-color {
+    color: rgb(29,161,242);
+}
