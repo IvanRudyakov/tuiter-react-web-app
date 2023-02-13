@@ -1,77 +1,75 @@
-#explore-content {
-    margin-left: 16px;
-    max-width: 560px;
+.h-25px {
+    height: 25px;
 }
 
-.wd-explore-image {
-    float: right;
-    width: 100px;
-    height: 100px;
-    margin-right: 16px;
-    margin-top: 10px;
-    border-radius: 10px;
-}
-
-#explore-search-header {
+.h-50px {
     height: 50px;
-    margin-left: 15px;
-    margin-top: 15px;
 }
 
-#explore-hyperlink-header {
-    min-height: 50px;
+.h-75px {
+    height: 75px;
 }
 
-#wd-search-input {
-    height: 30px;
-    width: 85%;
-    border-radius: 20px;
-    background-color: darkgray;
-    border-color: black;
+.h-100px {
+    height: 100px;
 }
 
-#explore-gear {
-    float: right;
-    margin-right: 12px;
-    width: 30px;
-    height: 30px;
+.font-size-14 {
+    font-size: 14px;
 }
 
-.wd-highlighted-hyperlink {
-    padding-top: 16px;
-    padding-bottom: 16px;
-    margin-right: 16px;
-    margin-left: 16px;
-    border-bottom-width: 4px;
-    border-bottom-color: rgb(29,161,242);
-    border-bottom-style: solid;
+.rounded-corners-30 {
+    border-radius: 30px;
 }
 
-.wd-normal-hyperlink {
-    padding-top: 16px;
-    padding-bottom: 16px;
-    margin-right: 16px;
-    margin-left: 16px;
+.rounded-corners-50 {
+    border-radius: 50px;
 }
 
-.wd-trending-post {
-    height: 90px;
+.rounded-corners-r-30 {
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-left-width: 0px;
+    border-top: 1px solid #ced4da;
+    border-bottom: 1px solid #ced4da;
+    border-right: 1px solid #ced4da;
 }
 
-.wd-author-post {
-    height: 120px;
+.rounded-corners-l-30 {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-right-width: 0px;
+    border-top: 1px solid #ced4da;
+    border-bottom: 1px solid #ced4da;
+    border-left: 1px solid #ced4da;
 }
 
-.wd-topic-post {
-    height: 120px;
+.blue {
+    color: rgb(75, 108, 240)
 }
 
-.wd-explore-post-content {
-    display: block;
-    margin-left: 15px;
-    margin-top: 15px;
+.light-font {
+    color: rgb(137, 136, 136);
+    font-weight: normal;
 }
 
-.wd-highlighted-text-color {
-    color: rgb(29,161,242);
+.strong-font {
+    font-weight: bold;
+}
+
+.spaceship-div {
+    position: relative
+}
+
+.spaceship-text {
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    bottom: 10px;
+    left: 10px;
 }
