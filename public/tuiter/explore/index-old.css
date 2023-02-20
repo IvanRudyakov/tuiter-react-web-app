@@ -1,0 +1,75 @@
+.h-25px {
+    height: 25px;
+}
+
+.h-50px {
+    height: 50px;
+}
+
+.h-75px {
+    height: 75px;
+}
+
+.h-100px {
+    height: 100px;
+}
+
+.font-size-14 {
+    font-size: 14px;
+}
+
+.rounded-corners-30 {
+    border-radius: 30px;
+}
+
+.rounded-corners-50 {
+    border-radius: 50px;
+}
+
+.rounded-corners-r-30 {
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-left-width: 0px;
+    border-top: 1px solid #ced4da;
+    border-bottom: 1px solid #ced4da;
+    border-right: 1px solid #ced4da;
+}
+
+.rounded-corners-l-30 {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-right-width: 0px;
+    border-top: 1px solid #ced4da;
+    border-bottom: 1px solid #ced4da;
+    border-left: 1px solid #ced4da;
+}
+
+.blue {
+    color: rgb(75, 108, 240)
+}
+
+.light-font {
+    color: rgb(137, 136, 136);
+    font-weight: normal;
+}
+
+.strong-font {
+    font-weight: bold;
+}
+
+.spaceship-div {
+    position: relative
+}
+
+.spaceship-text {
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    bottom: 10px;
+    left: 10px;
+}

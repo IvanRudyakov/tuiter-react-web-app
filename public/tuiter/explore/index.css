@@ -18,6 +18,10 @@
     font-size: 14px;
 }
 
+.rounded-corners-15 {
+    border-radius: 15px;
+}
+
 .rounded-corners-30 {
     border-radius: 30px;
 }
@@ -65,11 +69,22 @@
     position: relative
 }
 
+.white-background {
+    background-color: white;
+}
+
 .spaceship-text {
     position: absolute;
     font-size: 30px;
     font-weight: bold;
-    color: white;
+    color: rgb(35, 35, 35);
     bottom: 10px;
     left: 10px;
+}
+
+.gray-border {
+    border-color: rgb(50, 50, 50);
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 0px;
 }
