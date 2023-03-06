@@ -14,24 +14,24 @@ const ExploreComponent = () => {
                     </div>
                 </div>
                 <div className="col-1">
-                    <a href="#" className="d-flex h-100 flex-row justify-content-center align-items-center">
+                    <a href="example.com" className="d-flex h-100 flex-row justify-content-center align-items-center">
                         <i className="fa fa-cog fa-2x blue"></i>
                     </a>
                 </div>
             </div>
             <ul className="nav nav-tabs">
                 <li className="nav-item">
-                    <a href="#" className="nav-link active">For You</a>
+                    <a href="example.com" className="nav-link active">For You</a>
                 </li>
                 <li className="nav-item">
-                    <a href="#" className="nav-link">Trending</a>
+                    <a href="example.com" className="nav-link">Trending</a>
                 </li>
                 <li className="nav-item">
-                    <a href="#" className="nav-link">News</a>
+                    <a href="example.com" className="nav-link">News</a>
                 </li>
             </ul>
             <div className="spaceship-div">
-                <img src="../images/spacex-starship.png" className="mt-2 w-100 h-auto" />
+                <img src="../images/spacex-starship.png" alt="" className="mt-2 w-100 h-auto" />
                 <div className="spaceship-text">SpaceX Starship</div>
             </div>
             {PostSummaryList()}
