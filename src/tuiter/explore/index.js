@@ -14,20 +14,20 @@ const ExploreComponent = () => {
                     </div>
                 </div>
                 <div className="col-1">
-                    <a href="example.com" className="d-flex h-100 flex-row justify-content-center align-items-center">
+                    <a href="http://www.example.com" className="d-flex h-100 flex-row justify-content-center align-items-center">
                         <i className="fa fa-cog fa-2x blue"></i>
                     </a>
                 </div>
             </div>
             <ul className="nav nav-tabs">
                 <li className="nav-item">
-                    <a href="example.com" className="nav-link active">For You</a>
+                    <a href="http://www.example.com" className="nav-link active">For You</a>
                 </li>
                 <li className="nav-item">
-                    <a href="example.com" className="nav-link">Trending</a>
+                    <a href="http://www.example.com" className="nav-link">Trending</a>
                 </li>
                 <li className="nav-item">
-                    <a href="example.com" className="nav-link">News</a>
+                    <a href="http://www.example.com" className="nav-link">News</a>
                 </li>
             </ul>
             <div className="spaceship-div">

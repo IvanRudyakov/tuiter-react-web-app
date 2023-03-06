@@ -12,7 +12,7 @@ const PostSummaryItem = (
     }
 ) => {
     return (
-        <a href="example.com" className="list-group-item list-group-item-action gray-border">
+        <a href="http://www.example.com" className="list-group-item list-group-item-action gray-border">
             <div className="row">
                 <div className="col-9 col-md-10 col-lg-9 col-xxl-10">
                     <div className="light-font">
