@@ -6,7 +6,7 @@ const WhoToFollowListItem = (
     }
 ) => {
     return (
-        <a className="list-group-item list-group-item-action gray-border">
+        <a href="#" className="list-group-item list-group-item-action gray-border">
             <div className="row g-0 g-xl-2">
                 <div className="col-2">
                     <img src={`../images/${who.avatarIcon}`} className="w-100 h-50px rounded-corners-50" />
