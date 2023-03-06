@@ -31,7 +31,7 @@ const ExploreComponent = () => {
                 </li>
             </ul>
             <div className="spaceship-div">
-                <img src="../images/spacex-starship.png" alt="" className="mt-2 w-100 h-auto" />
+                <img src="../images/spacex-starship.png" alt="spacex starship" className="mt-2 w-100 h-auto" />
                 <div className="spaceship-text">SpaceX Starship</div>
             </div>
             {PostSummaryList()}

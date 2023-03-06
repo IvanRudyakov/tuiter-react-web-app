@@ -26,7 +26,7 @@ const PostSummaryItem = (
                     </div>
                 </div>
                 <div className="col-3 col-md-2 col-lg-3 col-xxl-2">
-                    <img src={`../images/${post.image}`} alt="" className="w-100 h-100 rounded-corners-15" />
+                    <img src={`../images/${post.image}`} alt={post.image} className="w-100 h-100 rounded-corners-15" />
                 </div>
             </div>
         </a>

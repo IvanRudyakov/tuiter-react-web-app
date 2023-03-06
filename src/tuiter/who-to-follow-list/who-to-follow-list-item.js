@@ -9,7 +9,7 @@ const WhoToFollowListItem = (
         <a href="example.com" className="list-group-item list-group-item-action gray-border">
             <div className="row g-0 g-xl-2">
                 <div className="col-2">
-                    <img src={`../images/${who.avatarIcon}`} className="w-100 h-50px rounded-corners-50" />
+                    <img src={`../images/${who.avatarIcon}`} alt={who.avatarIcon} className="w-100 h-50px rounded-corners-50" />
                 </div>
                 <div className="col-7">
                     <div className="strong-font">
