@@ -4,7 +4,6 @@ import WhatsHappening from "./whats-happening";
 import { useSelector } from "react-redux";
 
 const Home = () => {
-    const tuitsHome = useSelector(state => state.tuits)
     return (
         <>
             <h4>Home</h4>
