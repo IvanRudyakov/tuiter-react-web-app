@@ -1,0 +1,44 @@
+[
+    {
+        "_id": 234,
+        "topic": "Space",
+        "userName": "SpaceX",
+        "time": "2h",
+        "title": "100s of SpaceX Starships land on Mars after a 6 month journey. 1000s of Martian colonists being building Mars Base 1",
+        "image": "spacex.png",
+        "liked": true,
+        "replies": 123,
+        "retuits": 432,
+        "likes": 2345,
+        "handle": "@spacex",
+        "tuit": "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars"
+    },
+    {
+        "_id": 345,
+        "topic": "Space",
+        "userName": "Tesla",
+        "time": "2h",
+        "title": "red is sus",
+        "image": "tesla.png",
+        "liked": false,
+        "replies": 234,
+        "retuits": 432,
+        "likes": 234,
+        "handle": "@tesla",
+        "tuit": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin libero nunc consequat interdum varius sit amet mattis vulputate. Ut diam quam nulla porttitor massa id neque aliquam vestibulum. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Fames ac turpis egestas sed tempus urna et. Vitae tempus quam pellentesque nec nam aliquam sem et. Quisque egestas diam in arcu cursus euismod quis. Vulputate enim nulla aliquet porttitor lacus luctus. Pellentesque habitant morbi tristique senectus. Leo in vitae turpis massa sed elementum tempus egestas. Eget sit amet tellus cras. Lorem dolor sed viverra ipsum nunc aliquet. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Et magnis dis parturient montes. Fringilla urna porttitor rhoncus dolor purus. Duis ut diam quam nulla porttitor. Leo in vitae turpis massa sed elementum tempus egestas sed. Magna fermentum iaculis eu non diam phasellus. Aenean pharetra magna ac placerat vestibulum lectus mauris."
+    },
+    {
+        "_id": 456,
+        "topic": "Space",
+        "userName": "SpaceX",
+        "time": "4h",
+        "title": "amogus",
+        "image": "spacex.png",
+        "liked": true,
+        "replies": 123,
+        "retuits": 433,
+        "likes": 2325,
+        "handle": "@spacex",
+        "tuit": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Semper eget duis at tellus at urna condimentum. Sed enim ut sem viverra aliquet eget sit. Mauris augue neque gravida in. Et netus et malesuada fames ac turpis egestas integer. Arcu felis bibendum ut tristique et egestas quis. Mi eget mauris pharetra et ultrices neque. Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam. Fames ac turpis egestas maecenas pharetra convallis posuere morbi leo. Risus ultricies tristique nulla aliquet enim tortor at. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Purus faucibus ornare suspendisse sed nisi lacus sed viverra. Ut tellus elementum sagittis vitae et leo duis."
+    }
+]

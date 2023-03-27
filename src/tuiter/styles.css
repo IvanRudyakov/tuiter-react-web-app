@@ -72,6 +72,11 @@
     font-weight: normal;
 }
 
+.medium-font {
+    color: rgb(75, 75, 75);
+    font-weight: normal;
+}
+
 .strong-font {
     font-weight: bold;
 }
@@ -101,6 +106,14 @@
 }
 
 
+
+.red-heart {
+    color: red
+}
+
+.normal-heart {
+    color: black
+}
 
 
 
