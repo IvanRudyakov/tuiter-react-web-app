@@ -1,7 +1,6 @@
 import React from "react";
 import TuitList from "../tuits/tuits-list";
 import WhatsHappening from "./whats-happening";
-import { useSelector } from "react-redux";
 
 const Home = () => {
     return (
