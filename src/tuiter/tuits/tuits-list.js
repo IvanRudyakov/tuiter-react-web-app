@@ -23,5 +23,5 @@ const TuitList = () => {
     )
 }
 
-export default TuitList;
+export default TuitList; 
 
